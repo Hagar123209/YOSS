@@ -1,0 +1,27 @@
+body{
+    background: rgb(78, 9, 83);
+}
+h1{
+    color: white;
+    align-items: center;
+    align-self: start;
+   font-style: italic;
+}
+
+p{
+    color: white;
+    font-style: italic;
+    font-size: xx-large;
+}
+button{
+    width: 200;
+    height: 40;
+    background: rgb(151, 26, 162);
+    color: white;
+    font-size: larger;
+/* 78 18 82 */
+}
+audio{
+    width: 100;
+    height: 100;
+}
